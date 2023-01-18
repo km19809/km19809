@@ -22,10 +22,12 @@ I majored in computer science and AI, but I am interested in web technologies an
 
 
 ## 개발 언어 Programming Languges
-* Python: 가장 선호합니다. I prefer it the most.
-* Javascript: 배울 수록 어려운 언어. The more I know, the more difficult it gets.
-* C++: 애증의 관계. My dear enemy.
-* Rust: 배우는 중. Learning in progress
+* Python: 가장 선호합니다. I prefer it the most. ❤
+* Javascript: 배울 수록 어려운 언어. The more I know, the more difficult it gets. 🤔
+* C++: 애증의 관계. My dear enemy. 🎭
+* Rust: 배우는 중. Learning in progress... 💡
+* Zig: 초심자. New to Zig. 👶
+* V: 흥미로워요. Interesting... 👀
 * Lua, MATLAB(Octave), C#(Unity): 쓸 줄만 압니다. Just able to use.
 
 ## 활동 Activity
